@@ -1,4 +1,4 @@
-# Update to fork for lab.
+# Update to lab.
 # Deploy and scale Microsoft Azure Cloud Native infrastructures and applications with Red Hat Ansible Automation
 <p align="center">
 <img src="images/microsoft-twitter.png" width="600">
